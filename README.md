@@ -7,8 +7,14 @@ MessageStripe aligns text at center horizontally and vertically and adjusts font
 
 Usage
 ===
+```objective-c
 [MessageStripe showMessage:@"Login failed! Please check your name and password"
               inViewController:self
                        inFrame:CGRectMake(x, y, w, h)];
+```
 
-![Screenshot](https://raw.github.com/vlfm/MessageStripe/master/Screenshots/s1.png "(x=5, y=5, w=300, h=65)")  ![Screenshot](https://raw.github.com/vlfm/MessageStripe/master/Screenshots/s2.png "(x=20, y=20, w=260, h=65)")  ![Screenshot](https://raw.github.com/vlfm/MessageStripe/master/Screenshots/s3.png "(x=20, y=20, w=260, h=110)")
+![Screenshot](https://raw.github.com/vlfm/MessageStripe/master/Screenshots/s1.png "(x=5, y=5, w=300, h=65)")
+
+![Screenshot](https://raw.github.com/vlfm/MessageStripe/master/Screenshots/s2.png "(x=20, y=20, w=260, h=65)")
+
+![Screenshot](https://raw.github.com/vlfm/MessageStripe/master/Screenshots/s3.png "(x=20, y=20, w=260, h=110)")
