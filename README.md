@@ -11,4 +11,4 @@ Usage
               inViewController:self
                        inFrame:CGRectMake(x, y, w, h)];
 
-![Screenshot](/Screenshots/(5, 5, 300, 65).png "(x=5, y=5, w=300, h=65)")  ![Screenshot](/Screenshots/(20, 20, 260, 65).png "(x=20, y=20, w=260, h=65)")  ![Screenshot](/Screenshots/(20, 20, 260, 110).png "(x=20, y=20, w=260, h=110)")
+![Screenshot](https://raw.github.com/vlfm/MessageStripe/master/Screenshots/(5, 5, 300, 65).png "(x=5, y=5, w=300, h=65)")  ![Screenshot](https://raw.github.com/vlfm/MessageStripe/master/Screenshots/(20, 20, 260, 65).png "(x=20, y=20, w=260, h=65)")  ![Screenshot](https://raw.github.com/vlfm/MessageStripe/master/Screenshots/(20, 20, 260, 110).png "(x=20, y=20, w=260, h=110)")
