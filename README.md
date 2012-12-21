@@ -18,3 +18,5 @@ Usage
 ![Screenshot](https://raw.github.com/vlfm/MessageStripe/master/Screenshots/s2.png "(x=20, y=20, w=260, h=65)")
 
 ![Screenshot](https://raw.github.com/vlfm/MessageStripe/master/Screenshots/s3.png "(x=20, y=20, w=260, h=110)")
+
+Inspired by this tutorial: http://mobile.tutsplus.com/tutorials/iphone/ios-sdk-uialertview-custom-graphics/
